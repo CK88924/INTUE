@@ -1,0 +1,9 @@
+1.此為爬蟲下載INTUE 教學魔法師之各課程.pdf
+
+2.請根據提示輸入INTUE帳號密碼
+
+3.下載完的檔案會在PDF folder 並看到 download ok .pdf in PDF Folder!! 自動關閉瀏覽器後按任意鍵結束程式
+
+4.請適時更新msedgedriver.exe version 以配合 edge 瀏覽器
+
+5.若網頁元素出現更動或者需下載不同類型檔案請依照需求修改源代碼作者不負微調責任
